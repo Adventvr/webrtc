@@ -1,8 +1,8 @@
-# Wait! You need the New PubNub WebRTC SDK
+# ⚠️ Wait! You need the New PubNub WebRTC SDK ⚠️ 
 
-> [WebRTC Simple Calling API + Mobile](https://github.com/stephenlb/webrtc-sdk)
+> ✅  [WebRTC Simple Calling API + Mobile](https://github.com/stephenlb/webrtc-sdk)
 
-PubNub WebRTC SDK v0.7.0 ~ Old
+Depricated - PubNub WebRTC SDK v0.7.0 ~ Old
 ======
 
 Don't forget this is the old SDK reposiotry.  Make sure you go to [WebRTC Simple Calling API + Mobile](https://github.com/stephenlb/webrtc-sdk) instead.
@@ -11,7 +11,7 @@ PubNub now offers a new API for enhancing your WebRTC applications with the powe
 
 Read more about the [PubNub API](http://pubnub.com)
 
-# Installation
+# Depricated - Installation
 
 As a prequisite you will need a setup your PubNub account by following these steps:
 * Use an existing or sign up for a free account at [pubnub.com](http://pubnub.com)
@@ -25,7 +25,7 @@ Currently the API is only available through GitHub. This is because the API is c
 <script type='text/javascript' src='/path/to/webrtc-beta-pubnub-*.*.*.min.js'></script>
 ```
 
-# Getting Started
+# Depricated - Getting Started
 
 Here is the three minute getting started example. This will initialize the PubNub API, setup a RTCPeerConnection with a user, and publish a message to that user.
 
